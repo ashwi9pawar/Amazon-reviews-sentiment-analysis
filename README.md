@@ -1,4 +1,4 @@
-# Amazon-reviews-sentimental-analysis
+# Amazon-reviews-sentiment-analysis
 
 ## Extracting information from Website:-  
 Extracting information from Amazon using Beautiful soup. Information such as Review Title, Review Ratings, Review Content, Review Date are stored as list. Each of this information is stored as a feature to create a dataframe. 
